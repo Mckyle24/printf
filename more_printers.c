@@ -45,7 +45,4 @@ void _recursion_int_binary(int a)
 		_recursion_int_binary(t / 2);
 	_write(t % 2 + '0');
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
+
